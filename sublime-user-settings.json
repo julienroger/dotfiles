@@ -1,0 +1,66 @@
+{
+  "added_words":
+  [
+    "Abletribe",
+    "Abletribe's"
+  ],
+  "binary_file_patterns":
+  [
+    "*.jpg",
+    "*.jpeg",
+    "*.png",
+    "*.gif",
+    "*.ttf",
+    "*.tga",
+    "*.dds",
+    "*.ico",
+    "*.eot",
+    "*.pdf",
+    "*.swf",
+    "*.jar",
+    "*.zip",
+    "node_modules/",
+    "bower_components/"
+  ],
+  "color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+  "dictionary": "Packages/Language - English/en_GB.dic",
+  "folder_no_icon": false,
+  "font_face": "DejaVu Sans Mono",
+  "font_size": 17,
+  "ignored_packages":
+  [
+    "EJS",
+    "Elixir",
+    "Emmet",
+    "IJulia",
+    "Increment Selection",
+    "Julia",
+    "knitr",
+    "LaTeX-cwl",
+    "LaTeXTools",
+    "LiveStyle",
+    "nginx",
+    "Nunjucks Syntax",
+    "R-Box",
+    "RAML Syntax Highlighter",
+    "RuboCop",
+    "Ruby Debugger",
+    "Vintage"
+  ],
+  "rulers":
+  [
+    80,
+    90
+  ],
+  "spell_check": true,
+  "tab_size": 2,
+  "tabs_small": true,
+  "theme": "Agila Origin.sublime-theme",
+  "theme_agila_camouflage": true,
+  "theme_agila_compact_tab": true,
+  "theme_agila_nano_mode": true,
+  "theme_agila_sidebar_plus_minus": true,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": false,
+  "word_wrap": true
+}
